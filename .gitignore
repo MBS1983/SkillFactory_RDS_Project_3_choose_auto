@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/SkillFactory_RDS_Project4_choose_auto.iml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
